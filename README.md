@@ -1,4 +1,4 @@
-# Final Project - E.On Case Study - Group 6
+# Natural Language Processing with Customer Comments data
 
 Welcome to the NPS Analysis Project repository. This project aims to enhance the understanding of customer loyalty and satisfaction through advanced Natural Language Processing (NLP) techniques. We've tackled several tasks, each contained in its separate notebook, to analyze customer feedback and Net Promoter Scores (NPS) for E.ON.
 
